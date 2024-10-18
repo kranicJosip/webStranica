@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+      <div class="glavni">
+	    
+		<div class="gore">
+			<div class="gore0">
+			</div>
+		    <div class="gore1"> 	
+			<h1>Variation</h1>
+			<p1>Free PSD Website Template</p1>
+			</div>
+			
+			
+		
+		<ul>
+		<li><a href="#Long Link Text">Long Link Text</a></li>
+		<li><a href="#Services">Services</a></li>
+		<li><a href="#Products">Products</a></li>
+		<li><a href="#Gallery">Gallery</a></li>
+		<li><a href="#Company">Company</a></li>
+		</ul>
+		</div>
+		<div class="neimenovan">
+		<div class="neimenovan1">
+		<h2>Cursus penati saccum ut curabitur nulla</h2>
+		<p4>ovo je tekst koji se odnosi na ovaj veliki naslov </p4>
+		</div>
+		
+		<div id="neimenovan3">
+			<figure>
+			<img src="pulpitrock.jpg" alt="Mountain View" width="450s" height="330">
+			<img src="img_girl.jpg" alt="Girl in a jacket" width="450s" height="330">
+			<img src="img_chania.jpg" alt="Flowers in Chania" width="450s" height="330">
+			</figure>
+			</div>
+			
+		
+		</div>
+		<div class="sredina">
+		   <div class="sredina0">
+		   </div>
+		   <div class="sredina1">
+		   <h1>Home</h1>
+		   <h6>.................................................................................</h6>
+		   <p>ovo je moj primjer stranice,
+		   ovo je tekst koji pišem  </p>
+		   </div>
+		   <div class="sredina2">
+		    <h1>Products</h1>
+		   <h6>.................................................................................</h6>
+		   <p>ovo je moj primjer stranice,ovo je tekst koji pišem </p>
+		   </div>
+		   <div class="sredina3">
+		    <h1>Services</h1>
+			<h6>.................................................................................</h6>
+		   <p>ovo je moj primjer stranice,ovo je tekst koji pišem  </p>
+		   </div>
+		   <div class="sredina4">
+		    <h1>Link Text</h1>
+			<h6>.................................................................................</h6>
+		   <p>ovo je moj primjer stranice,ovo je tekst koji pišem </p>
+		   </div>
+		   <div class="sredina5">
+		    <h1>Link Text</h1>
+			<h6>.................................................................................</h6>
+		   <p>ovo je moj primjer stranice,ovo je tekst koji pišem  </p>
+		   </div>
+		</div>
+		<div class="veliki">
+		<div class="veliki1">
+		<h3>About This Free PSD Template</h3>
+		<p5>This is a W3C standards compliant free PSD website temlate from OS templates.</p5>
+		    
+		<p6>This template is distributed using a website template licence,which allows you to use and
+			modify the template for both personal and commercial use when you keep the provided credit links in footer.</p6>
+		<p7>For more free PSD templates visit OS-Templates.com</p7>	
+		
+		</div>
+		<div class="veliki2">
+		<h5>Nullamlacus dui ipsum
+		conseque loborttis</h5>
+		
+		<p9>Sed Illyrii Liburnis suis per pontum Hadriaticum navigant et Romanos impugnant. Legati Romani Teutam, claram reginam Illyriorum, monent. Illyrii autem iniussu Teutae legatos necant.</p9>
+		</div>
+		<div class="veliki3">
+		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d174.79993458084286!2d18.12831550775529!3d45.49399315658882!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475d0dd78ea322bb%3A0xd65afe7ffe07a94f!2sZoolo%C5%A1ki+vrt+Bizik!5e0!3m2!1shr!2shr!4v1524937861416" width="450" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</div>
+		<div class="veliki4">
+		    <div class="veliki5">
+			<h4>Nullamlacus dui</h4>
+			<p8> Sed Illyrii Liburnis suis per pontum Hadriaticum navigant et Romanos impugnant. Legati Romani Teutam, claram reginam Illyriorum, monent. Illyrii autem iniussu Teutae legatos necant.</p8>
+			</div>
+			<div class="veliki6">
+			<h4>Nullamlacus dui</h4>
+			<p8> Sed Illyrii Liburnis suis per pontum Hadriaticum navigant et Romanos impugnant. Legati Romani Teutam, claram reginam Illyriorum, monent. Illyrii autem iniussu Teutae legatos necant.</p8>
+			</div>
+			<div class="veliki7">
+			<h4>Nullamlacus dui</h4>
+			<p8> Sed Illyrii Liburnis suis per pontum Hadriaticum navigant et Romanos impugnant. Legati Romani Teutam, claram reginam Illyriorum, monent. Illyrii autem iniussu Teutae legatos necant.</p8>
+			</div>
+		</div>
+		</div>
+		<div class="dolje">
+		<div class="dolje1">
+		<p2>Copyright @ 2009 Domain Name-All Rights Rights Reserved</p2>
+		</div>
+		<div class="dolje2">
+		<p3>Template By OS Templates</p3>
+		</div>
+		</div>
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  </div>
+</body>
+</html>
+
+
+-------------------------------------------------------------------------------
+
+
+.glavni{
+	height:2050px;
+	width:1200px;
+	background-color:#070B19;
+	margin-right:auto;
+	margin-left:auto;
+	}
+		
+.gore{
+	height:150px;
+	width:1200px;
+	background-color:#D2D2CB;
+	margin-right:auto;
+	margin-left:auto;
+}
+.gore0{
+	height:150px;
+	width:15px;
+	background-color#D2D2CB:;
+	float:left;
+}
+.gore1{
+	height:150px;
+	width:400px;
+	background-color:#D2D2CB;
+	float:left;
+	
+	
+}
+
+.neimenovan{
+	height:550px;
+	width:1200px;
+	background-color:#4E4F47;
+	margin-right:auto;
+	margin-left:auto;
+}
+.neimenovan1{
+	height:550px;
+	width:600px;
+	background-color:#4E4F47;
+	float:right;
+}
+.neimenovan2{
+	height:550px;
+	width:600px;
+	background-color:#4E4F47;
+	float:left;
+}
+@keyframes neimenovan3{
+	
+	
+	0% {
+		left: 0;
+	}
+	20% {
+		left: 0;
+	}
+	
+	25% {
+		left: -100%;
+	}
+	
+	45% {
+		left: -100%;
+	}
+	
+	50% {
+		left: -200%;
+	}
+	
+	70% {
+		left :-200%;
+	}
+	
+	75% {
+		left: -300%;
+	}
+	
+	95% {
+		left: -300%
+	}
+	
+	100% {
+		left: -400%
+	}
+}
+	#neimenovan3{
+		overflow:hidden;
+	}
+	
+	#neimenovan3 figure img {
+		width: 20%;
+		float:left;
+	}
+	
+	#neimenovan3 figure{
+		position: relative;
+		width: 300%;
+		margin: 110px 100px 100px 75px;
+		left: 0;
+		text-align: left;
+		font-size: 0;
+		animation: 20s neimenovan3 infinite;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+
+
+
+	
+.sredina{
+	height:250px;
+	width:1200px;
+	background-color:#FAD899;
+	margin-right:auto;
+	margin-left:auto;
+}
+.sredina0{
+	height:250px;
+	width:10px;
+	background-color:#FAD899;
+	float:left;
+	
+}
+.sredina1{
+	height:250px;
+	width:220px;
+	background-color:#FAD899;
+	float:left;
+}
+.sredina2{
+	height:250px;
+	width:240px;
+	background-color:#FAD899;
+	float:left;
+}
+.sredina3{
+	height:250px;
+	width:240px;
+	background-color:#FAD899;
+	float:left;
+	
+}
+.sredina4{
+	height:250px;
+	width:240px;
+	background-color:#FAD899;
+	float:left;
+	
+	
+	
+}
+.sredina5{
+	height:250px;
+	width:240px;
+	background-color:#FAD899;
+	float:left;
+}
+
+.veliki{
+	height:1000px;
+	width:1200px;
+	background-color:#FCF9F5;
+	margin-right:auto;
+	margin-left:auto;
+}
+.veliki1{
+	height:500px;
+	width:800px;
+	background-color:#ffffcc;
+	float:left;
+}
+.veliki2{
+	height:500px;
+	width:400px;
+	background-color:#ffffcc;
+	float:right;
+}
+
+.veliki3{
+	height:500px;
+	width:450px;
+	background-color:#ffffcc;
+	float:left;
+}
+.veliki4{
+	height:500px;
+	width:750px;
+	background-color:yellow;
+	float:right;
+}
+.veliki5{
+	height:500px;
+	width:250px;
+	background-color:#ffffcc;
+	float:left;
+}
+.veliki6{
+	height:500px;
+	width:250px;
+	background-color:#ffffcc;
+	float:left;
+}
+.veliki7{
+	height:500px;
+	width:250px;
+	background-color:#ffffcc;
+	float:left;
+}
+.dolje{
+	height:100px;
+	width:1200px;
+	background-color:#4E4F47;
+	margin-right:auto;
+	margin-left:auto;
+}
+.dolje1{
+	height:100px;
+	width:1000px;
+	background-color:#4E4F47;
+	float:left;
+	
+}
+.dolje2{
+	height:100px;
+	width:200px;
+	background-color:#4E4F47;
+	float:right;
+	
+}
+
+h1{
+	text-align:left;
+	font:times new roman;
+}
+p{
+	text-align:left;
+	color:red;
+}
+
+ul{
+	list-style-type:none;
+	margin: 0;
+	padding:12;
+	overflow:hidden;
+	
+}
+li{
+	float:right;
+}
+
+li a{
+	display:block;
+	color:black;
+	text-align:center;
+	padding:35px;
+	text-decoration:none;
+	
+}
+li a:hover {
+	background-color:silver;
+	
+	
+}
+
+.dolje1 p2{
+	color:white;
+	text-align:center;
+	margin: 0;
+	padding:20px;
+	position:relative;
+	top:50%;
+	transform: translateY(-50%);
+}
+.dolje2 p3{
+	color:white;
+	text-align:right;
+	margin: 0;
+	padding:0;
+	position:relative;
+	top:50%;
+	transform: translateY(-50%);
+}
+h2{
+	text-align:left;
+	padding:18px; 
+	font-size:48px;
+	color:silver;
+	
+}
+p4{
+	text-align:left;
+	padding:18px;
+	font-size:20px;
+	color:silver;
+}
+
+h3{
+	font-size:30px;
+	color:#474c4c;
+	padding:18px;
+}
+p5{
+	font-size:15px;
+	color:#474c4c;
+	padding:18px;
+}
+
+p6{
+	float:left;
+	font-size:15px;
+	color:#474c4c;
+	padding:18px;
+}
+p7{
+    font-size:15px;
+	color:#474c4c;
+	padding:18px;
+	float:left;
+}
+
+h4{
+	font-size:30px;
+	padding:18px;
+}
+
+p8{
+	font-size:15px;
+	padding:18px;
+	float:left;
+	color:red;
+}
+
+
+h5{
+	font-size:25px;
+	color:#474c4c;
+	float:right;
+	padding:20px;
+}
+p9{
+	font-size:15px;
+	color:#474c4c;
+	float:left;
+	padding:20px;
+}
+
+
+h6{
+	font-size:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,238 @@
+.neimenovan3{
+	height:330px;
+	width:450px;
+	background-color:red;
+	margin:110px 100px 100px 75px;
+	
+	
+	
+	
+	
+	
+	<img src="pulpitrock.jpg" alt="Mountain View" width="600s" height="550">
+	
+	
+	width="450s" height="330"
+	
+	 110px 100px 100px 75px;
+	
+	
+	
+	
+	
+	
+	.neimenovan2{
+	height:550px;
+	width:600px;
+	background-color:#4E4F47;
+	float:left;
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div id="neimenovan3">
+			<figure>
+			<img src="pulpitrock.jpg" alt="Mountain View" width="600s" height="550">
+			<img src="img_girl.jpg" alt="Girl in a jacket" width="600s" height="550">
+			<img src="img_chania.jpg" alt="Flowers in Chania" width="600s" height="550">
+			</figure>
+			</div>
+
+
+
+
+
+
+
+
+			<video controls width="600" height="550">
+				<source src="video.mp4"  type="video/mp4" >
+			
+			
+			</video>
+
+
+
+.neimenovan2{
+	height:550px;
+	width:600px;
+	background-color:;
+	float:left;
+}
+
+
+
+
+
+@keyframes neimenovan3{
+	
+	
+	0% {
+		left: 0;
+	}
+	20% {
+		left: 0;
+	}
+	
+	25% {
+		left: -100%;
+	}
+	
+	45% {
+		left: -100%;
+	}
+	
+	50% {
+		left: -200%;
+	}
+	
+	70% {
+		left :-200%;
+	}
+	
+	75% {
+		left: -300%;
+	}
+	
+	95% {
+		left: -300%
+	}
+	
+	100% {
+		left: -400%
+	}
+}
+	#neimenovan3{
+		overflow:hidden;
+	}
+	
+	#neimenovan3 figure img {
+		width: 20%;
+		float:left;
+	}
+	
+	#neimenovan3 figure{
+		position: relative;
+		width: 300%;
+		float:left;
+		animation: 20s neimenovan3 infinite;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://drive.google.com/drive/folders/193RldWX7ErYvWIdRGihct_LIDc3Culj2?usp=sharing
+
+
+
+
+
+
+
+
+#neimenovan3 figure{
+		position: relative;
+		width: 300%;
+		margin: 110px 100px 100px 75px;
+		left: 0;
+		text-align: left;
+		font-size: 0;
+		animation: 20s neimenovan3 infinite;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
